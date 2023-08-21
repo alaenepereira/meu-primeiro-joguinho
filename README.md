@@ -14,4 +14,4 @@ As ferramentas utilizadas para a construção do mini game foram:
 
 Conclusão do jogo:
 
-![Animação](![Alt text](dog.gif))
+![Animação](file:///C:/Users/laeci/Desktop/jogo/dog.htm)
