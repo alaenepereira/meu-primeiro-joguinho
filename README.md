@@ -14,4 +14,5 @@ As ferramentas utilizadas para a construção do mini game foram:
 
 Conclusão do jogo:
 
-![Animação](file:///C:/Users/laeci/Desktop/jogo/dog.htm)
+
+![Animação](https://github.com/alaenepereira/joguinho_da_aula/assets/77158293/8da7cc0b-b3b5-4ae5-b4db-0f0699d32452)
